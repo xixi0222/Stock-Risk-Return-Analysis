@@ -17,8 +17,8 @@
 	* It shows that the stock return is influenced by the market (beta), has a firm specific expected value (alpha) and firm-specific unexpected component (residual). Each stock's performance is in relation to the performance of a market index. Security analysts often use the SIM for such functions as computing stock betas, evaluating stock selection skills, and conducting event studies.
 	* Point Estimation: Alpha & Beta.
 	* Interval estimation: It shows the confidence interval of statistics (Alpha & Beta) at a confidence level.
-3. Portfolio:  
-        * Get the portfolio of 2 stocks which has minimum risk indicated by Var\[return of portfolio].
+3. Portfolio:
+	* Get the portfolio of 2 stocks which has minimum risk indicated by Var\[return of portfolio\].
 
 #### Data Description:
 
