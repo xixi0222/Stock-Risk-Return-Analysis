@@ -9,10 +9,10 @@ Use Classical method and Non-parametric Bootstrap (Percentile method and T metho
  单元格内容  | 单元格内容 | 单元格内容  
 
 
-> CER Model
->> Point estimation
->>> Classical method
->> Interval estimation
+* CER Model
+	* Point estimation
+		* Classical method
+	* Interval estimation
 >>> Non-parametric Bootstrap
 >>>> Percentile method 
 >>>> T method
