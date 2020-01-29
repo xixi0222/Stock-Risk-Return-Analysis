@@ -12,6 +12,7 @@ Use Classical method and Non-parametric Bootstrap (Percentile method and T metho
 * CER Model
 	* Point estimation
 		* Classical method
+			* aaa
 	* Interval estimation
 >>> Non-parametric Bootstrap
 >>>> Percentile method 
