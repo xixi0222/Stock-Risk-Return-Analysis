@@ -19,7 +19,10 @@
 	* Interval estimation: It shows the confidence interval of statistics (Alpha & Beta) at a confidence level.
 3. Portfolio:
         * Get the portfolio of 2 stocks which has minimum risk indicated by Var\[return of portfolio].
-	
+
+#### Data Description:
+
+1. In this Excel file, I choose 10 stocks with the largest market value. These stocks can better reflect the corporations and economic situations of the US. For the index, Nasdaq, S&P500 and Dow Jones industrial index are chosen.
 
 #### Analysis Structure Tree:
 
