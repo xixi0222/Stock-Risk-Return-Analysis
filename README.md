@@ -4,7 +4,7 @@ Use Classical method and Non-parametric Bootstrap (Percentile method and T metho
 
 
  表头  | 表头  | 表头
- ---- | ----- | ------  
+ ---- | --- | ------  
  单元格内容  | 单元格内容 | 单元格内容 
  单元格内容  | 单元格内容 | 单元格内容  
 
