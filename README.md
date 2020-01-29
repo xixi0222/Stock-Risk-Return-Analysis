@@ -11,7 +11,7 @@ Use Classical method and Non-parametric Bootstrap (Percentile method and T metho
 
  Model  | Estimation  | Method | Details
 ----- | --- | ------  |-----
- CER Model  | Point estimation | Classical method |  
+-- CER Model  | Point estimation | Classical method |  
 	| Interval estimation | Non-parametric Bootstrap | Percentile method 
     |                      | | T method 
 	    |                      | Parametric Bootstrap | Percentile method 
