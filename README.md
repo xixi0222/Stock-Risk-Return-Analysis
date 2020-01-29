@@ -3,11 +3,10 @@ Implement CER Model & Single Index Model with Point Estimation &amp; Interval Es
 Use Classical method and Non-parametric Bootstrap (Percentile method and T method).
 
 
-Name | Academy | score
-- | :-: | -:
-Harry Potter | Gryffindor| 90
-Hermione Granger | Gryffindor | 100
-Draco Malfoy | Slytherin | 90
+ 表头  | 表头  | 表头
+ ---- | ----- | ------  
+ 单元格内容  | 单元格内容 | 单元格内容 
+ 单元格内容  | 单元格内容 | 单元格内容  
 
 
 Model	       Estimation	             Method  
